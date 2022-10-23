@@ -1,6 +1,6 @@
 ## 어제보다 나은 오늘, 오늘보다 나은 내일 🍀
 
-
+하루하루 성장해나가는 Junior Back-End Developer
 
 - [Blog](https://damgom2.tistory.com)
 
@@ -11,11 +11,26 @@
 ## Skill
 
 - Language : Java
-- Backend : Spring, MySQL
+- Backend : Spring Boot, JPA, MySQL
 - DevOps : AWS
+- Tools : Git, Notion
 
 
+## Project
 
+- 2022.09 ~ 2022.10 Flyaway [Repository](https://github.com/Damgom/flyaway)
+
+## Education
+
+- 2022.04 ~ 2022.10 CodeStates Software Engineering Bootcamp 
+
+
+## Studies
+
+- 2022.07 ~ 2022.08 Java Basic Algorithm Study [Repository](https://github.com/yeonkkk/javaStudy)
+- Inflearn lecture [Spring Core Basic](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
+- Inflearn lecture [Spring MVC](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
+- Inflearn lectur [JPA Basic](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
 
 <!--
 **Damgom/Damgom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
