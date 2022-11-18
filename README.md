@@ -2,6 +2,9 @@
 
 하루하루 성장해나가는 Junior Back-End Developer
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=wisewish)](https://solved.ac/wisewish)
+
 - [Blog](https://damgom2.tistory.com)
 
 
