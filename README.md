@@ -27,7 +27,7 @@
 
 ## Education
 
-- 2022.04 ~ 2022.10 CodeStates Software Engineering Bootcamp 
+- 2022.04 ~ 2022.10 CodeStates Software Engineering Bootcamp [Repository](https://github.com/Damgom/codestates)
 
 
 
