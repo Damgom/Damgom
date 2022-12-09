@@ -22,12 +22,13 @@
 ## Project
 
 - 2022.09 ~ 2022.10 Flyaway [Repository](https://github.com/Damgom/flyaway)
+- 2022.10 ~ 2022.11 Woowacourse Precourse 5th
+  - Repository : [java-onboarding](https://github.com/Damgom/java-onboarding), [java-baseball](https://github.com/Damgom/java-baseball), [java-lotto](https://github.com/Damgom/java-lotto), [java-bridge](https://github.com/Damgom/java-bridge)
 
 ## Education
 
 - 2022.04 ~ 2022.10 CodeStates Software Engineering Bootcamp 
-- 2022.10 ~ 2022.11 Woowacourse Precourse 5th
-  - Repository : [java-onboarding](https://github.com/Damgom/java-onboarding), [java-baseball](https://github.com/Damgom/java-baseball), [java-lotto](https://github.com/Damgom/java-lotto), [java-bridge](https://github.com/Damgom/java-bridge)
+
 
 
 ## Studies
