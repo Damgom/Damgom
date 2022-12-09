@@ -35,6 +35,7 @@
 
 - 2022.07 ~ 2022.08 Java Basic Algorithm Study [Repository](https://github.com/yeonkkk/javaStudy)
 - 2022.06 ~ Daily Coding [Reposiroty](https://github.com/Damgom/dailyCoding)
+- 2022.10 ~ Data Structure Algorithm Study [Repository](https://github.com/yeonkkk/javaStudy), [Workbook](https://www.acmicpc.net/workbook/view/13057)
 - Inflearn lecture [Spring Core Basic](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
 - Inflearn lecture [Spring MVC](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
 - Inflearn lecture [JPA Basic](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
